@@ -1,7 +1,7 @@
 package searching;
 
 public class LinearSearch {
-
+/*
 
      int linearSearch(int[] arr, int elem)
      {
@@ -16,7 +16,7 @@ public class LinearSearch {
                  System.err.print("element not found");
              }
          }
-     }
+     }*/
 
 
 
