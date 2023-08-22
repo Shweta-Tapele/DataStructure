@@ -1,3 +1,3 @@
 # DataStructure
 
-This repo has daily dose of my data structures.
+This repository has daily dose of my data structures and algorithms.
